@@ -19,7 +19,7 @@ def LocPos(loc):
 #empty list
 myLst = []
 
-#enter the number of elements for list
+#enter the number of elements for list from the user
 n = int(input("Enter the number of elements for list:"))
 
 #values for elements
